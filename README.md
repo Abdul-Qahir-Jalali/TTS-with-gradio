@@ -1,3 +1,13 @@
+---
+title: TTS with Gradio
+emoji: 🗣️
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 3.50.2
+app_file: app.py
+pinned: false
+---
 # Text-to-Speech using Coqui TTS and Gradio
 This project converts text to speech using the Tacotron2-DDC model from the `TTS` library and provides a web interface using Gradio.
 
